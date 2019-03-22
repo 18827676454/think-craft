@@ -1,0 +1,15 @@
+{
+  "name": "goldeagle/think-craft",
+  "description": "a web site scaffolding toolit based on thinkphp 5.2",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "goldeagle",
+      "email": "bison@bitseed.cn"
+    }
+  ],
+  "require": {
+    "twig/twig": "2.x-dev"
+  }
+}
